@@ -1,0 +1,6 @@
+pytorch-CycleGAN-and-pix2pix/checkpoints
+pytorch-CycleGAN-and-pix2pix/datasets/
+pytorch-CycleGAN-and-pix2pix/results/
+pytorch-CycleGAN-and-pix2pix/docs
+pytorch-CycleGAN-and-pix2pix/download_cyclegan_dataset1.sh
+pytorch-CycleGAN-and-pix2pix/download_pix2pix_dataset1.sh

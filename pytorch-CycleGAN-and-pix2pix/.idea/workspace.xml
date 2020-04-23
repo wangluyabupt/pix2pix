@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ab376d3-53ed-461a-aaf3-2f9f125c5ed5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="7d1d3be9-ec7b-4bb8-909e-6ae92b445900" />
+  <component name="ProjectId" id="1YYwSoVwJzSC7TKZu1EiNdorT9x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ab376d3-53ed-461a-aaf3-2f9f125c5ed5" name="Default Changelist" comment="" />
+      <created>1583132837589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583132837589</updated>
+      <workItem from="1583132845234" duration="2176000" />
+      <workItem from="1583305883094" duration="12000" />
+      <workItem from="1584781503567" duration="71000" />
+      <workItem from="1585019946931" duration="3339000" />
+      <workItem from="1585801857947" duration="2844000" />
+      <workItem from="1586487812295" duration="400000" />
+      <workItem from="1586690713692" duration="820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="187" key="#Deployment" timestamp="1585020586840">
+      <screen x="37" y="23" width="1643" height="1027" />
+    </state>
+    <state x="431" y="187" key="#Deployment/37.23.1643.1027@37.23.1643.1027" timestamp="1585020586840" />
+    <state x="286" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583132909210">
+      <screen x="37" y="23" width="1643" height="1027" />
+    </state>
+    <state x="286" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog/37.23.1643.1027@37.23.1643.1027" timestamp="1583132909210" />
+    <state x="330" y="121" key="SettingsEditor" timestamp="1585019970377">
+      <screen x="37" y="23" width="1643" height="1027" />
+    </state>
+    <state x="330" y="121" key="SettingsEditor/37.23.1643.1027@37.23.1643.1027" timestamp="1585019970377" />
+    <state x="583" y="210" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1585019968649">
+      <screen x="37" y="23" width="1643" height="1027" />
+    </state>
+    <state x="583" y="210" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/37.23.1643.1027@37.23.1643.1027" timestamp="1585019968649" />
+    <state x="728" y="219" key="ftp.server.browser" timestamp="1585020585412">
+      <screen x="37" y="23" width="1643" height="1027" />
+    </state>
+    <state x="728" y="219" key="ftp.server.browser/37.23.1643.1027@37.23.1643.1027" timestamp="1585020585412" />
+  </component>
+</project>
