@@ -10,6 +10,9 @@ parser.add_argument('--fold_AB', dest='fold_AB', help='output directory', type=s
 parser.add_argument('--num_imgs', dest='num_imgs', help='number of images', type=int, default=1000000)
 parser.add_argument('--use_AB', dest='use_AB', help='if true: (0001_A, 0001_B) to (0001_AB)', action='store_true')
 args = parser.parse_args()
+# args.fold_A='/home/wly/Documents/pix2pix/pytorch-CycleGAN-and-pix2pix/datasets/datasets/mydata_0/A'
+# args.fold_B='/home/wly/Documents/pix2pix/pytorch-CycleGAN-and-pix2pix/datasets/datasets/mydata_0/B'
+# args.fold_AB='/home/wly/Documents/pix2pix/pytorch-CycleGAN-and-pix2pix/datasets/datasets/mydata_0/AB'
 
 for arg in vars(args):
     print('[%s] = ' % arg, getattr(args, arg))
